@@ -1,2 +1,2 @@
-# SANG_Mysite
-깃허브사이트만들기
+# MSA5_MySite
+MSA 5기 깃허브 사이트 만들기
